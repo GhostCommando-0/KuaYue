@@ -54,3 +54,4 @@ jobs:
           path: |
             KuaYue/build/libs/*.jar
             KasugaLibNext/build/libs/*.jar
+# trigger build
